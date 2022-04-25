@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645034126 source:c:\users\tecnosoft\documents\codeblocks 20.03\reto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

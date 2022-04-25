@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645033861 source:c:\users\tecnosoft\documents\codeblocks 20.03\miprimeravariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
